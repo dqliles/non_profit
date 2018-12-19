@@ -208,7 +208,7 @@ header {
 }
 
 #mylogo{
-  
+
   display: none;
 }
 
@@ -3327,7 +3327,7 @@ a#scrollUp:hover {
   padding: 13px 13px 30px;
 }
 .mean-container .mean-bar {
-  margin-top: -67px;
+/*  margin-top: -67px;*/
 }
 .navigation .logo-wrap {
   position: relative;
